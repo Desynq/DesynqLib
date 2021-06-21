@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"mainhand": {
-				"nbt": "{type:mining_laser}"
+				"nbt": "{type:\"mining_laser\"}"
 			}
 		}
 	}

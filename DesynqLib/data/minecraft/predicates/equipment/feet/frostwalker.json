@@ -4,7 +4,11 @@
 	"predicate": {
 		"equipment": {
 			"feet": {
-				"nbt": "{Enchantments:[{id:\"minecraft:frost_walker\"}]}"
+				"enchantments": [
+					{
+						"enchantment": "minecraft:frost_walker"
+					}
+				]
 			}
 		}
 	}

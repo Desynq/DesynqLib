@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"offhand": {
-				"nbt": "{type:soul_lantern}"
+				"nbt": "{type:\"soul_lantern\"}"
 			}
 		}
 	}

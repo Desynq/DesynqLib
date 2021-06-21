@@ -4,8 +4,10 @@
 	"predicate": {
 		"equipment": {
 			"mainhand": {
-				"item": "minecraft:written_book",
-				"nbt": "{type:anonymsg_book}"
+				"items": [
+					"minecraft:written_book"
+				],
+				"nbt": "{type:\"anonymsg_book\"}"
 			}
 		}
 	}

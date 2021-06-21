@@ -4,7 +4,9 @@
 	"predicate": {
 		"equipment": {
 			"mainhand": {
-				"item": "minecraft:spectral_arrow"
+				"items": [
+					"minecraft:spectral_arrow"
+				]
 			}
 		}
 	}

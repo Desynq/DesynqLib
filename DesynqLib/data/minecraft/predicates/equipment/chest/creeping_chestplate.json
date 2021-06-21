@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"chest": {
-				"nbt": "{type:creeping_chestplate}"
+				"nbt": "{type:\"creeping_chestplate\"}"
 			}
 		}
 	}

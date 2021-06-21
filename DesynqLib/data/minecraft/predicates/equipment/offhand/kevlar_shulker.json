@@ -4,8 +4,10 @@
 	"predicate": {
 		"equipment": {
 			"offhand": {
-				"item": "minecraft:gray_shulker_box",
-				"nbt": "{type:kevlar_vest}"
+				"items": [
+					"minecraft:gray_shulker_box"
+				],
+				"nbt": "{type:\"kevlar_vest\"}"
 			}
 		}
 	}

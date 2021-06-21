@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"offhand": {
-				"nbt": "{type:gelatin_shield}"
+				"nbt": "{type:\"gelatin_shield\"}"
 			}
 		}
 	}

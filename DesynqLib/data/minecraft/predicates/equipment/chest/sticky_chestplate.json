@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"chest": {
-				"nbt": "{type:sticky_chestplate}"
+				"nbt": "{type:\"sticky_chestplate\"}"
 			}
 		}
 	}
