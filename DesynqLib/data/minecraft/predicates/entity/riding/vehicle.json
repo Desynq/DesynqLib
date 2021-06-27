@@ -2,8 +2,8 @@
     "condition": "entity_properties",
     "entity": "this",
     "predicate": {
-        "targeted_entity": {
-            "nbt": "{Tags:[\"targeted\"]}"
+        "vehicle": {
+            "nbt": "{Tags:[\"vehicle\"]}"
         }
     }
 }
