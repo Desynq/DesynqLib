@@ -3,11 +3,10 @@
 	"entity": "this",
 	"predicate": {
 		"equipment": {
-			"offhand": {
+			"mainhand": {
 				"items": [
-					"minecraft:black_shulker_box"
-				],
-				"nbt": "{type:\"kevlar_vest\"}"
+					"minecraft:ender_chest"
+				]
 			}
 		}
 	}

@@ -1,0 +1,13 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "reference",
+            "name": "equipment/holding/shulker_box"
+        },
+        {
+            "condition": "reference",
+            "name": "equipment/mainhand/ender_chest"
+        }
+    ]
+}
