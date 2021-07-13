@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"head": {
-				"nbt": "{type:iriss_stealth_helmet}"
+				"nbt": "{type:\"iriss_stealth_helmet\"}"
 			}
 		}
 	}

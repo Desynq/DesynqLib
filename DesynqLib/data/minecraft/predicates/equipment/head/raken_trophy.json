@@ -4,7 +4,7 @@
 	"predicate": {
 		"equipment": {
 			"head": {
-				"nbt": "{type:\"nightivision_goggles\"}"
+				"nbt": "{type:\"raken_trophy\"}"
 			}
 		}
 	}
