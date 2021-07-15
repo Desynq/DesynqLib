@@ -2,18 +2,10 @@
     "condition": "minecraft:alternative",
     "terms": [
         {
-            "condition": "minecraft:value_check",
-            "range": {
+            "condition": "minecraft:time_check",
+            "value": {
                 "min": 13000,
                 "max": 23000
-            },
-            "value": {
-                "type": "score",
-                "target": {
-                    "type": "fixed",
-                    "name": "daytime"
-                },
-                "score": "timer"
             }
         },
         {
