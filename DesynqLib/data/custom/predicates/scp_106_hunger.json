@@ -1,0 +1,35 @@
+[
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "effects": {
+                    "minecraft:hunger": {
+                        "amplifier": {
+                            "min": 10
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "effects": {
+                    "minecraft:hunger": {
+                        "amplifier": 9,
+                        "duration": {
+                            "min": 2
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "location": {
+                "biome": "slime:wasteland",
+                "position": {
+                    "y": {
+                        "min": 30
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:reference",
+            "name": "minecraft:equipment/full_set/hazmat"
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "effects": {
+                    "minecraft:hunger": {
+                        "amplifier": {
+                            "min": 5
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "effects": {
+                    "minecraft:hunger": {
+                        "amplifier": 4,
+                        "duration": {
+                            "min": 2
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
