@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "nbt": "{type:\"soul_sword\",AttributeModifiers:[{AttributeName:\"minecraft:generic.attack_damage\",Amount:36.0d}]}"
+            }
+        }
+    }
+}

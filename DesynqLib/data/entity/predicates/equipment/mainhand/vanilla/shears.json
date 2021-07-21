@@ -3,8 +3,10 @@
 	"entity": "this",
 	"predicate": {
 		"equipment": {
-			"offhand": {
-				"nbt": "{type:\"mp5sd\"}"
+			"mainhand": {
+				"items": [
+					"minecraft:shears"
+				]
 			}
 		}
 	}

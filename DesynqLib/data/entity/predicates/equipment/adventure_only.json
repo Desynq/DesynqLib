@@ -3,11 +3,11 @@
     "terms": [
         {
             "condition": "reference",
-            "name": "equipment/holding/shulker_box"
+            "name": "entity:equipment/holding/shulker_box"
         },
         {
             "condition": "reference",
-            "name": "equipment/mainhand/ender_chest"
+            "name": "entity:equipment/mainhand/ender_chest"
         }
     ]
 }

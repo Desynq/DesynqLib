@@ -17,7 +17,7 @@
         "condition": "minecraft:inverted",
         "term": {
             "condition": "minecraft:reference",
-            "name": "minecraft:equipment/full_set/hazmat"
+            "name": "entity:equipment/full_set/hazmat"
         }
     },
     {
