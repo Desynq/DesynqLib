@@ -1,0 +1,22 @@
+{
+	"condition": "entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"head": {
+				"nbt": "{type:\"iriss_stealth_helmet\"}"
+			},
+			"chest": {
+				"nbt": "{type:\"ish_chest\"}"
+			},
+			"legs": {
+				"nbt": "{type:\"ish_legs\"}"
+			},
+			"feet": {
+				"items": [
+					"minecraft:air"
+				]
+			}
+		}
+	}
+}
