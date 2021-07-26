@@ -1,0 +1,13 @@
+{
+	"condition": "entity_properties",
+	"entity": "this",
+	"predicate": {
+		"effects": {
+			"minecraft:regeneration": {
+				"duration": {
+					"min": 3
+				}
+			}
+		}
+	}
+}
